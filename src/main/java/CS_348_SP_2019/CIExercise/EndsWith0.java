@@ -6,6 +6,8 @@ public class EndsWith0 {
 
 	public EndsWith0()  {
 		names = "";
+		names += "Shams Al Farees\n";
+
 		// add your name here in the form of a line that looks like:
         // names+= "John Smith\n";
 
