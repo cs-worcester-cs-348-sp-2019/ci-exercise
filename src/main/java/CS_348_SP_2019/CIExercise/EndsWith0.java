@@ -7,13 +7,13 @@ public class EndsWith0 {
 	public EndsWith0()  {
 		names = "";
 		// add your name here in the form of a line that looks like:
-        // names+= "John Smith\n";
-
+        	// names+= "John Smith\n";
+		names += "Jarid Aker\n";
 	}
 
 	@Override
 	public String toString() {
-		return "EndsWith0 [names="+ names +"]";
+		return "EndsWith0 [names=" + names + "]";
 	}
 
 }

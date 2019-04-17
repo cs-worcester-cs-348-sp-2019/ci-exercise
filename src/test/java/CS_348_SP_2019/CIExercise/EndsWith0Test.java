@@ -11,7 +11,7 @@ public class EndsWith0Test {
 	public void testToString() {
 		EndsWith0 zero = new EndsWith0();
 		// add your name to the expected string, after the all the other names in the form John Smith\n
-		assertEquals("EndsWith0 [names=]", zero.toString());
+		assertEquals("EndsWith0 [names=Jarid Aker\n]", zero.toString());
 
 	}
 
