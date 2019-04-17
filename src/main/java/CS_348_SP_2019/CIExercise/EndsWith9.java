@@ -8,7 +8,7 @@ public class EndsWith9 {
 		names = "";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
-
+		names += "paul\n";
 	}
 
 	@Override
