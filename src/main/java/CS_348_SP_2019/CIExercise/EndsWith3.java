@@ -6,6 +6,7 @@ public class EndsWith3 {
 
 	public EndsWith3()  {
 		names = "";
+		names+= "Ryan D'Entremont\n";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
 
