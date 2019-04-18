@@ -10,6 +10,7 @@ public class EndsWith3 {
 		// names+= "John Smith\n";
 		names += "Mia Rogers\n";
 		names += "Damjana Zyberaj\n";
+		names += "Andrew Finneran\n";
 	}
 	
 	@Override
