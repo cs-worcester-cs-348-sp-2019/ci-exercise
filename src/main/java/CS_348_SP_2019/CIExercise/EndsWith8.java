@@ -1,7 +1,7 @@
 package CS_348_SP_2019.CIExercise;
 
 public class EndsWith8 {
-	
+
 	String names;
 
 	public EndsWith8()  {
@@ -10,6 +10,7 @@ public class EndsWith8 {
 		names += "Kyle Quadarella\n";
 		names += "Gloris Pina\n";
 		names += "Tyler Rego\n";
+		names += "James Blash\n";
 	}
 
 	@Override
@@ -18,4 +19,3 @@ public class EndsWith8 {
 	}
 
 }
-
