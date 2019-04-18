@@ -10,6 +10,7 @@ public class EndsWith8 {
 		names += "Kyle Quadarella\n";
 		names += "Gloris Pina\n";
 		names += "Tyler Rego\n";
+		names += "Michael Duquette\n";
 		names += "James Blash\n";
 	}
 
