@@ -11,7 +11,7 @@ public class EndsWith6 {
         	names += "Chris Radkowski\n";
         	names += "Shruti Nagpal\n";
 		names += "John Pacheco\n";
-
+		names += "Matthew DePalo\n";
 	}
 
 	@Override
