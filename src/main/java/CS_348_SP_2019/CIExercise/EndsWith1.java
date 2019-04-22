@@ -11,6 +11,7 @@ public class EndsWith1 {
         // names+= "John Smith\n";
 		names += "Kat Law\n";
 		names += "Khoa Nguyen\n";
+		names += "Thomas Rokicki\n";
 	}
 	
 	@Override
